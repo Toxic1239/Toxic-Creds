@@ -100,7 +100,7 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./sessions`)
 │└────────────┈ ⳹        
 │©2024-2099 Toxxic Md
 └─────────────────┈ ⳹
-`Don't Forget To Give Star To My Repo ⳹\n\n ` }, {quoted: xeonses});
+`Don't Forget To Give Star To My Repo ⳹\n\n` }, {quoted: xeonses});
               await delay(1000 * 2) 
               process.exit(0)
         }
